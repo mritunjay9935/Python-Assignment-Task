@@ -1,6 +1,17 @@
 # Python-Assignment-Task
 README for the TASK 3:-
 
+Open Command Prompt
+
+Type this statement and press enter ->mysql -u root -p
+
+Enter Your Password 
+
+Type this statement ->CREATE DATABASE mystudents;
+
+Then Satrt The Project
+
+
 First, please ensure that a MySQL server is installed on your computer and the mysql-connector-python module is installed.
 
 You can install it using ->pip install mysql-connector-python
